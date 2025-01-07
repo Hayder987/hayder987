@@ -18,6 +18,10 @@
 
 <h3 align="left">Hi, I’m Hayder! A passionate MERN Stack Developer with a knack for creating dynamic and responsive web applications. I thrive on building scalable, efficient, and user-friendly solutions that make a difference.</h3>
 
+- 🌱 Currently exploring **Next.js** and **Serverless Functions**  
+- 🔭 Working on a **Restaurant Management Web App** and a **Crowdfunding Platform**  
+- 💬 Ask me about **React**, **Node.js**, or **JavaScript**  
+
 ###
 
 <p align="left">Hello World!!</p>
