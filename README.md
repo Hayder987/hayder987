@@ -85,7 +85,18 @@
 </div>
 
 ###
+## GitHub Stats  
 
-<img src="https://raw.githubusercontent.com/hayder987/hayder987/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hayder&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hayder&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayder&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ###
