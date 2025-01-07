@@ -70,33 +70,18 @@
 
 ###
 
-<h2 align="left">Social-Links</h2>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-<div align="left">
-  <a href="https://www.facebook.com/profile.php?id=100006202260978" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://x.com/hayder4290" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hayder987&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hayder987&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+
 ###
-## GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hayder&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hayder&theme=radical" alt="GitHub Streak Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayder&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ###
