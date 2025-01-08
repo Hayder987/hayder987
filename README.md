@@ -96,7 +96,6 @@
 
 
 ###
-<img src="https://raw.githubusercontent.com/hayder987/hayder987/output/snake.svg" alt="Snake animation" />
 
 ###
 
