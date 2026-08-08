@@ -145,7 +145,7 @@ A modern full-stack property rental platform with authentication, property manag
 
 `Next.js` `TypeScript` `PostgreSQL` `Prisma` `TanStack Query` `Zod` `JWT`
 
-[🔗 Live Demo](https://rent-nest-nextjs-frontend.vercel.app) • [💻 GitHub]([YOUR_GITHUB_LINK](https://github.com/Hayder987/RentNest_nextjs_frontend)
+[🔗 Live Demo](https://rent-nest-nextjs-frontend.vercel.app) • [💻 GitHub](https://github.com/Hayder987/RentNest_nextjs_frontend)
 
 </td>
 
