@@ -30,7 +30,7 @@ Hi, I’m Hayder! 👋 A passionate <strong>Full Stack Developer</strong> who en
  ## WhatsApp
  ### +8801771814597
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Next.js<br>🎯 Goals: Become a Senior Developer 2025<br>🎲 Fun fact: Fueled by coffee ☕ and a passion for problem-solving.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Next.js<br>🎯 Goals: Become a Senior Developer 2027<br>🎲 Fun fact: Fueled by coffee ☕ and a passion for problem-solving.</p>
 
 ###
 
@@ -132,8 +132,19 @@ Hi, I’m Hayder! 👋 A passionate <strong>Full Stack Developer</strong> who en
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hayder987&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hayder987&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hayder987&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&bg_color=0d1117&hide_border=true"
+    height="180"
+    alt="Hayder Ali GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayder987&layout=compact&langs_count=8&theme=dark&title_color=ff8c00&text_color=ffffff&bg_color=0d1117&hide_border=true"
+    height="180"
+    alt="Hayder Ali Top Languages"
+  />
+
 </div>
 
 
