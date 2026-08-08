@@ -16,11 +16,13 @@
 
 ###
 
-<h3 align="left">Hi, I’m Hayder! A passionate MERN Stack Developer with a knack for creating dynamic and responsive web applications. I thrive on building scalable, efficient, and user-friendly solutions that make a difference.</h3>
+<h3 align="left">
+Hi, I’m Hayder! 👋 A passionate <strong>Full Stack Developer</strong> who enjoys building modern, scalable, and high-performance web applications. I work primarily with <strong>Next.js, React, TypeScript, Node.js, PostgreSQL, and Prisma</strong>, along with modern tools like <strong>TanStack Query, Zod, Cloudinary, shadcn/ui, and JWT</strong>. I’m passionate about writing clean, maintainable code and creating intuitive digital experiences that solve real-world problems.
+</h3>
 
-- 🌱 Currently exploring **Next.js** and **Serverless Functions**  
-- 🔭 Working on a **Restaurant Management Web App** and a **Crowdfunding Platform**  
-- 💬 Ask me about **React**, **Node.js**, or **JavaScript**  
+- 🌱 Currently exploring **Next.js, TypeScript, Prisma, and scalable Full-Stack Architecture**
+- 🔭 Building **RentNest — a full-stack property rental platform**
+- 💬 Ask me about **React, Next.js, TypeScript, Node.js, PostgreSQL, Prisma, REST APIs, or Authentication**
 
 ###
 
