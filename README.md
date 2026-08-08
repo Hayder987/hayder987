@@ -150,6 +150,17 @@ Hi, I’m Hayder! 👋 A passionate <strong>Full Stack Developer</strong> who en
 
 ###
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/hayder987/hayder987/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+
+</div>
+
 ###
 
 
