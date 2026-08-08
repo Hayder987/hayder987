@@ -128,38 +128,54 @@ Hi, I’m Hayder! 👋 A passionate <strong>Full Stack Developer</strong> who en
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
-###
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hayder987&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&bg_color=0d1117&hide_border=true"
-    height="180"
-    alt="Hayder Ali GitHub Stats"
-  />
+<table>
+<tr>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayder987&layout=compact&langs_count=8&theme=dark&title_color=ff8c00&text_color=ffffff&bg_color=0d1117&hide_border=true"
-    height="180"
-    alt="Hayder Ali Top Languages"
-  />
+<td width="50%" valign="top">
+
+### 🏠 RentNest
+
+A modern full-stack property rental platform with authentication, property management, rental requests and payment integration.
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `TanStack Query` `Zod` `JWT`
+
+[🔗 Live Demo](https://rent-nest-nextjs-frontend.vercel.app) • [💻 GitHub]([YOUR_GITHUB_LINK](https://github.com/Hayder987/RentNest_nextjs_frontend)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Portfolio
+
+A modern, responsive personal portfolio built with Next.js, TypeScript, Tailwind CSS, shadcn/ui and Framer Motion.
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui` `Framer Motion`
+
+[🔗 Live Demo]([YOUR_LIVE_LINK](https://hayder4290.vercel.app)) • [💻 GitHub](https://github.com/Hayder987/my_portfoli_nextjs)
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 
 ###
 
-<h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
 
-  <img
-    src="https://raw.githubusercontent.com/hayder987/hayder987/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
+###
 
-</div>
+
 
 ###
 
